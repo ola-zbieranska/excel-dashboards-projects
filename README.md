@@ -1,6 +1,6 @@
 # excel-dashboards-projects
 This repository showcases a collection of Excel dashboards created for learning and practice purposes.
-Each project demonstrates different aspects of data visualization using Microsoft Excel, including interactive dashboards, data analysis tools, and visualization techniques.
+<br>Each project demonstrates different aspects of data visualization using Microsoft Excel, including interactive dashboards, data analysis tools, and visualization techniques.
 
 <br> Contents
 
