@@ -7,4 +7,4 @@ Each project demonstrates different aspects of data visualization using Microsof
 <br> Project_1: 
 <br> Title: Sharks attaks
 <br> Short Description of Project_1, its purpose, and key features: soon
-<br> [Link to Folder]()
+<br> [Link to Folder](https://github.com/ola-zbieranska/excel-dashboards-projects/tree/main/project_1)
